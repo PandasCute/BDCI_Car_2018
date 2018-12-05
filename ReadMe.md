@@ -253,4 +253,4 @@ python submit2.py
 生成的submi2.csv 即为我们的提交文件。
 
 ## Concat:
-sqfzf69(At)163.com
+sqfzf69@163.com
